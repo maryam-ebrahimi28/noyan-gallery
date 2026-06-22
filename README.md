@@ -1,7 +1,6 @@
 # Noyan Gallery 🖼️
 
 [![GitHub Pages](https://img.shields.io/github/pages/deploy/maryam-ebrahimi28/noyan-gallery?color=28a745&logo=github&style=flat-square)](https://maryam-ebrahimi28.github.io/noyan-gallery/)
-[![GitHub license](https://img.shields.io/github/license/maryam-ebrahimi28/noyan-gallery?color=blue&logo=github&style=flat-square)](https://github.com/maryam-ebrahimi28/noyan-gallery/blob/main/LICENSE)
 [![GitHub repo size](https://img.shields.io/github/repo-size/maryam-ebrahimi28/noyan-gallery?color=orange&logo=github&style=flat-square)](https://github.com/maryam-ebrahimi28/noyan-gallery)
 
 A modern and responsive portfolio website built with plain **HTML, CSS, and JavaScript**. This project features a sleek sidebar menu, a project gallery with a modal view, and a functional contact form, providing a professional showcase for your work.
