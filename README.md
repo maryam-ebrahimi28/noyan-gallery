@@ -1,4 +1,4 @@
-# Noyan Gallery 🖼️
+# Noyan Gallery 
 
 [![GitHub Pages](https://img.shields.io/github/pages/deploy/maryam-ebrahimi28/noyan-gallery?color=28a745&logo=github&style=flat-square)](https://maryam-ebrahimi28.github.io/noyan-gallery/)
 [![GitHub repo size](https://img.shields.io/github/repo-size/maryam-ebrahimi28/noyan-gallery?color=orange&logo=github&style=flat-square)](https://github.com/maryam-ebrahimi28/noyan-gallery)
